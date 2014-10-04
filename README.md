@@ -3,6 +3,15 @@ anguRAWR
 
 amazing angular cms JUST TO SHOW ADAM GIBBONS
 
+Dev
+======
+
+Run locally:
+
+```
+gulp
+```
+
 TODO
 ======
 
